@@ -1,40 +1,40 @@
-# Subscription & Bookkeeping Assistant
+# 訂閱與記帳助手 (Subscription & Bookkeeping Assistant)
 
-A personal finance management system designed to work with AI Agents. This project helps you track expenses, manage subscriptions, and perform financial analysis using natural language.
+專為 AI Agent 設計的個人財務管理系統。本專案協助您利用自然語言來追蹤開銷、管理訂閱服務，並執行財務分析。
 
-## 🌟 Key Features
+## 🌟 核心功能
 
-*   **Natural Language Entry**: Record expenses by simply telling the Agent what you spent (e.g., "Spent 800 on lunch").
-*   **Subscription Management**: Keep track of recurring bills, payment dates, and education costs in a structured Markdown file.
-*   **Financial Analysis**: Ask complex questions about your finances, such as "What is the education cost ratio?" or "Forecast next month's cash flow."
-*   **Privacy Focused**: Designed to run locally with strict separation of sensitive data.
+*   **自然語言記帳**：直接告訴 Agent 您花了什麼（例如：「午餐花了 800 元」）。
+*   **訂閱管理**：透過結構化的 Markdown 檔案追蹤固定帳單、繳費日期與教育費用。
+*   **財務分析**：詢問複雜的財務問題，例如「教育支出比例是多少？」或「預測下個月的現金流」。
+*   **隱私優先**：設計為本地運行，嚴格區分敏感資料。
 
-## 📂 Project Structure
+## 📂 專案結構
 
-*   **[`expenses.csv`](./expenses.csv)**: The ledger for all your daily transactions.
-*   **[`subscriptions.md`](./subscriptions.md)**: The central database for recurring subscriptions, utilities, and education costs.
-*   **[`bookkeeping_guide.md`](./bookkeeping_guide.md)**: A comprehensive guide on how to interact with the Agent, including command examples for various scenarios.
+*   **[`expenses.csv`](./expenses.csv)**：所有日常交易的分類帳。
+*   **[`subscriptions.md`](./subscriptions.md)**：定期訂閱、水電費與教育費用的核心資料庫。
+*   **[`bookkeeping_guide.md`](./bookkeeping_guide.md)**：與 Agent 互動的完整指南，包含各種情境的指令範例。
 
-## 🚀 Getting Started
+## 🚀 快速開始
 
-### 1. Recording an Expense
-Simply type a command like:
-> "Agent, I paid 800 NTD for the child's lunch today using family cash. Note: Feb Lunch."
+### 1. 記一筆帳
+只要輸入指令，例如：
+> 「Agent，我今天用家裡的錢付了小孩的午餐費 800 元。備註：2月午餐。」
 
-The Agent will parse this into `expenses.csv`.
+Agent 會將其解析並寫入 `expenses.csv`。
 
-### 2. Checking Subscriptions
-To see what's coming up:
-> "Check `subscriptions.md` for any bills due in the next 10 days."
+### 2. 檢查訂閱
+查看即將到期的項目：
+> 「檢查 `subscriptions.md`，未來 10 天內有哪些帳單要繳。」
 
-### 3. Financial Analysis
-To understand your spending:
-> "Analyze the total education spend for this year based on `expenses.csv` and compare it with the budget in `subscriptions.md`."
+### 3. 財務分析
+了解您的支出狀況：
+> 「根據 `expenses.csv` 分析今年度的總教育支出，並與 `subscriptions.md` 中的預算做比較。」
 
-## 📖 Documentation
+## 📖 文件
 
-For detailed instructions on all available commands and workflows, please refer to [**Agent Bookkeeping Guide**](./bookkeeping_guide.md).
+有關所有可用指令、工作流程與詳細操作，請參閱 [**Agent 記帳指南**](./bookkeeping_guide.md)。
 
-## 📄 License
+## 📄 授權
 
-Individual Use / Private
+個人使用 / 私有
