@@ -16,6 +16,7 @@
    - **繁體中文**: 所有文件、說明、備註、記錄必須使用繁體中文。
    - **專有名詞**: 初次出現或需明確定義時，採用中英文對照格式 `中文 (English)`，例如：`網際網路 (Internet)`、`安全營運中心 (Security Operations Center, SOC)`。
    - **GitHub Release**: 標題與說明內容必須使用 **繁體中文**。
+   - **Agent 互動**: 狀態更新 (Task Status)、總結 (Summary) 與思考過程 (Thought) 必須使用 **繁體中文**。
 
 # Task-Specific Rules
 
