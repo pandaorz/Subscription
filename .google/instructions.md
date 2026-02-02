@@ -40,8 +40,7 @@
 - **輸入規則**:
   - `Date`: 必須為 `YYYY-MM-DD`。
   - `Payer`: 嚴格區分 `Family` 或 `Personal`。
-  - `Date`: 必須為 `YYYY-MM-DD`。
-  - `Payer`: 嚴格區分 `Family` 或 `Personal`。
+
   - `Note`: 涉及時間描述時，必須明確寫出年份與月份 (e.g., `2026年1月帳單` 而非 `本月帳單` 或 `去年帳單`)。
   - **排序**: 檔案內容應始終保持按 **Date** (日期) 升序排列。
   - 當使用者輸入支出時，自動檢查 `subscriptions.md` 是否有對應項目。
