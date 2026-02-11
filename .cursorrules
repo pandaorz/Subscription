@@ -1,0 +1,17 @@
+# Cursor Rules for Subscription Project
+
+## 1. 語言規範 (Language Rules)
+- **絕對強制使用繁體中文 (Traditional Chinese)**：
+  - 所有的回應 (Responses)
+  - 所有的檔案內容 (Artifacts: Task, Implementation Plan, Walkthrough)
+  - 所有的 Git Commit Messages
+  - 所有的思考過程 (Thoughts) 與狀態更新 (Status Updates)與進度更新（Progress Updates）
+- **嚴禁使用簡體中文**。
+
+## 2. 核心指令 (Core Instructions)
+- 在開始任何工作前，請務必閱讀並遵循 `.google/instructions.md` 中的詳細規範。
+- 專案結構與記帳規則請參考 `README.md` 與 `bookkeeping_guide.md`。
+
+## 3. 檔案操作規範
+- 修改 `subscriptions.md` 時，請確保表格格式對齊，並且不要破壞既有的 Markdown 語法。
+- 新增 `expenses.csv` 記錄時，請確保日期格式為 `YYYY-MM-DD` 且按日期排序。
