@@ -146,8 +146,47 @@ Date,Category,Item,Amount,Payer,Note
 2026-04-28,Life,晚餐,160,Family,唐家泡菜館 現金
 2026-04-28,Life,羽球,100,Personal,計中羽球 現金
 2026-04-29,Child,班費(老二),2000,Family,現金
-2026-05-01,Utility,房屋稅(S82),2559,Family,悠遊付 一人一半(總額5118)
+2026-05-01,Utility,房屋稅(C81),2559,Family,悠遊付 一人一半(總額5118)
 2026-05-01,Life,晚餐,200,Family,大東東夜市 現金
 2026-05-01,Life,羽球,160,Personal,勁拍暢打 現金
+2026-05-01,Life,勞保費,1145,Personal,薪資自扣
+2026-05-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-05-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
 2026-05-02,Life,晚餐,200,Family,武聖夜市 現金
 2026-05-03,Life,午餐,200,Family,九州拉麵 LINEPAY
+2026-05-04,Life,早餐,230,Family,味興麵包 現金
+2026-05-04,Child,零用錢(老大),100,Family,現金
+2026-05-09,Life,羽球,190,Personal,勁拍暢打 現金
+2026-05-11,Life,羽球線,300,Personal,教羽凃老師YY65 現金
+2026-05-11,Life,早餐,100,Family,7-11麵包 IPASSMONEY
+2026-05-11,Child,零用錢(老大),100,Family,現金
+2026-05-16,Life,羽球,1000,Personal,勁拍暢打卷11張 現金
+2026-05-16,Life,羽球,30,Personal,勁拍假日暢打 現金
+2026-05-16,Life,羽球,70,Personal,團費 現金
+2026-05-16,Life,晚餐,375,Family,集品 現金
+2026-05-16,Life,甜點,120,Family,阿川粉圓冰 現金
+2026-05-16,Life,甜點,205,Family,Wish尉旭蛋糕 LINEPAY
+2026-05-17,Life,午餐,435,Family,卓仔魚仔麵 現金
+2026-05-17,Life,甜點,120,Family,黃火木 現金
+2026-05-18,Child,零用錢(老大),100,Family,現金
+2026-05-19,Child,晚餐(老二),100,Family,大必佳晚餐 現金
+2026-05-19,Life,羽球臨打,90,Personal,計中羽球 轉帳
+2026-05-23,Life,午餐,370,Family,呷擱來 IPASS MONEY
+2026-05-23,Life,晚餐,320,Family,二五巴水餃 現金
+2026-05-23,Life,羽球臨打,200,Personal,無謂 現金
+2026-05-24,Life,晚餐、零食,1314,Family,LOPIA 永豐SPORT
+2026-05-25,Utility,房屋稅(S82),2236,Family,全支付 一人一半(總額4472)
+2026-05-26,Life,綜合所得稅,11975,Family,全支付及悠遊付總額23950
+2026-05-30,Life,羽球,130,Personal,勁拍暢打 現金
+2026-05-30,Life,羽球,70,Personal,羽球團費 現金
+2026-06-01,Utility,房屋稅(C81),2559,Family,悠遊付 一人一半(總額5118)
+2026-06-01,Life,勞保費,1145,Personal,薪資自扣
+2026-06-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-06-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
+2026-06-05,Utility,台灣電力(C81),769,Family,悠遊付五2% 一人一半(總額1538)
+2026-06-07,Utility,台灣電力(S82),250,Family,全支付一3% 一人一半(總額500)
+2026-06-06,Life,羽球,130,Personal,勁拍暢打 現金
+2026-06-06,Life,羽球,70,Personal,羽球團費 現金
+2026-06-07,Life,羽球,350,Personal,無謂雙打 現金
+2026-06-08,Child,晚餐(老大),100,Family,晚餐 現金
+2026-06-08,Child,零用錢(老大),100,Family,現金
