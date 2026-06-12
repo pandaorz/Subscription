@@ -6,9 +6,9 @@ Date,Category,Item,Amount,Payer,Note
 2025-12-19,Utility,天然瓦斯(C81),607,Family,2025年12月帳單; C81悠遊付
 2025-12-19,Utility,天然瓦斯(S82),200,Family,2025年12月帳單; S82悠遊付
 2025-12-21,Child,學雜費(老大),1765,Family,2025年第一學期; 玉山分期5/6期
-2026-01-01,Life,勞保費,1145,Personal,薪資自扣
-2026-01-01,Life,勞保健保費,859,Personal,薪資自扣
 2026-01-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
+2026-01-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-01-01,Life,勞保費,1145,Personal,薪資自扣
 2026-01-03,Telecom,行動網路(門號09**-***-125),588,Personal,2025年12月帳單; 全支付星期五未回饋
 2026-01-06,Transport,停車費,30,Family,2026年1月帳單; 全支付、花蓮路邊停車
 2026-01-07,Life,羽球,90,Personal,計中羽球團
@@ -21,76 +21,85 @@ Date,Category,Item,Amount,Payer,Note
 2026-01-24,Life,羽球,200,Personal,無謂瘋羽臨打
 2026-01-25,Tech,Apple Music,240,Family,信用卡自動扣款
 2026-01-30,Utility,台灣電力(C81),1227,Family,2026年1月帳單; 全支付星期五無回饋
-2026-02-01,Life,勞保費,1145,Personal,薪資自扣
-2026-02-01,Life,勞保健保費,859,Personal,薪資自扣
 2026-02-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
+2026-02-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-02-01,Life,勞保費,1145,Personal,薪資自扣
 2026-02-02,Transport,停車費,20,Family,2026年1月帳單; 全支付台南市路邊停車
 2026-02-02,Utility,台灣電力(S82),510,Family,2026年1月帳單; 全支付星期一回饋3%
 2026-02-02,Utility,自來水費(C81),466,Family,2026年1月帳單; 全支付未達500無回饋
+2026-02-03,Telecom,行動網路(門號09**-***-125),588,Personal,2026年1月帳單; 全支付
 2026-02-05,Transport,機車(Gogoro),998,Family,2026年1月及2月帳單; 星展極簡卡
 2026-02-06,Utility,自來水費(S82),150,Family,2026年1月帳單; 悠遊付、週五2%
-2026-02-13,Utility,天然瓦斯(S82),200,Family,2026年2月帳單; 悠遊付週五2%
+2026-02-12,Telecom,行動網路(門號09**-***-432),588,Family,2026年1月帳單; 全支付
 2026-02-13,Utility,天然瓦斯(C81),778,Family,2026年2月帳單; 悠遊付週五2%
+2026-02-13,Utility,天然瓦斯(S82),200,Family,2026年2月帳單; 悠遊付週五2%
 2026-02-14,Life,包子,670,Family,現金
 2026-02-15,Life,羽球拍握把布,600,Personal,刷國旅卡
-2026-02-16,Life,紅包(父母),18000,Family,現金
-2026-02-16,Life,紅包(姪子),4000,Family,現金
+2026-02-15,Tech,Netflix,669,Family,2026年2月帳單; 玉山卡
+2026-02-15,Tech,國外交易手續費,9,Family,Netflix刷卡手續費
 2026-02-16,Child,紅包(老大老二),4000,Family,現金
-2026-02-17,Transport,台東停車費,18,Family,悠遊付
+2026-02-16,Life,紅包(姪子),4000,Family,現金
+2026-02-16,Life,紅包(父母),18000,Family,現金
 2026-02-17,Child,慢跑鞋(小孩),2550,Family,國旅卡
 2026-02-17,Life,慢跑鞋,2550,Personal,運動鞋 國旅卡
 2026-02-17,Life,握把布,180,Personal,Ching 國旅卡
 2026-02-17,Transport,etag儲值,200,Family,utaggo街口帳戶儲值
-2026-02-18,Transport,加油(全國加油站),1074,Family,永豐sport卡
-2026-02-18,Life,客家板條湯圓,370,Family,台中day1午餐
-2026-02-18,Life,麥當勞,49,Family,台中day1晚餐
-2026-02-18,Life,馥漫麵包花園,302,Family,台中day1消夜早餐
+2026-02-17,Transport,台東停車費,18,Family,悠遊付
 2026-02-18,Life,全聯比菲多,79,Family,台中day1飲料
-2026-02-19,Life,橫丁拉麵,646,Family,台中day2午餐
+2026-02-18,Life,客家板條湯圓,370,Family,台中day1午餐
+2026-02-18,Life,馥漫麵包花園,302,Family,台中day1消夜早餐
+2026-02-18,Life,麥當勞,49,Family,台中day1晚餐
+2026-02-18,Transport,加油(全國加油站),1074,Family,永豐sport卡
 2026-02-19,Life,一芨壽司,1132,Family,台中day2晚餐
-2026-02-19,Life,多拿滋,361,Family,台中day2消夜早餐
 2026-02-19,Life,全聯義美紅茶,49,Family,台中day2飲料
+2026-02-19,Life,多拿滋,361,Family,台中day2消夜早餐
+2026-02-19,Life,橫丁拉麵,646,Family,台中day2午餐
 2026-02-20,Life,多拿滋,255,Family,台中day3飲料
 2026-02-20,Transport,etag,200,Family,台中day3utaggo儲值
 2026-02-22,Life,羽球比賽,300,Personal,裕興交流賽大河羽球場 現金
-2026-02-24,Life,羽球臨打,100,Personal,計中羽球團 現金
 2026-02-24,Life,羽球線,380,Personal,久奈司黑豹球拍 現金
+2026-02-24,Life,羽球臨打,100,Personal,計中羽球團 現金
 2026-02-24,Tech,Apple Music,91,Family,訂閱 國泰Cube卡自扣
 2026-02-25,Transport,汽車加油(全國加油站),1007,Family,永豐SPORT卡
 2026-02-28,Life,濟州豆腐,600,Family,晚餐 現金
 2026-02-28,Life,羽球臨打,200,Personal,無謂南工 現金
 2026-02-28,Life,麵包,220,Family,南紡 永豐sport卡
-2026-03-01,Life,勞保費,1145,Personal,薪資自扣
-2026-03-01,Life,勞保健保費,859,Personal,薪資自扣
 2026-03-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
+2026-03-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-03-01,Life,勞保費,1145,Personal,薪資自扣
 2026-03-01,Transport,停車費,20,Family,台南路邊停車 永豐sport卡
 2026-03-03,Child,全民英檢複試衝刺班,650,Family,老二DBG 轉帳
 2026-03-03,Life,羽球會費,3500,Personal,教羽（114年第二學期）
+2026-03-03,Telecom,行動網路(門號09**-***-125),588,Personal,2026年2月帳單; 全支付
 2026-03-05,Child,小孩紅包,-24800,Family,補貼學雜費等
 2026-03-07,Life,午餐(魚羊炒飯),390,Family,現金
 2026-03-07,Life,晚餐(西門鍋燒),325,Family,現金
 2026-03-07,Life,羽球臨打(無謂),200,Personal,現金
-2026-03-08,Child,團膳費(老大),5130,Family,超商現金;含手續費6元
 2026-03-08,Child,午餐費等(老二),8499,Family,悠遊付2%刷玉山卡;含書籍費、家長會費、輔導費、團保費
-2026-03-08,Life,早餐(米屋烘焙西點麵包),245,Family,現金
+2026-03-08,Child,團膳費(老大),5130,Family,超商現金;含手續費6元
 2026-03-08,Life,午餐(開元無名虱目魚),430,Family,現金
+2026-03-08,Life,早餐(米屋烘焙西點麵包),245,Family,現金
 2026-03-08,Life,晚餐(西門鍋燒),475,Family,現金
 2026-03-12,Life,晚餐(民族八寶冰),120,Family,晚餐甜點 LINEPAY
-2026-03-14,Life,羽球臨打,200,Personal,無謂南工 現金
+2026-03-12,Telecom,行動網路(門號09**-***-432),588,Family,2026年2月帳單; 全支付
 2026-03-14,Life,午餐,220,Family,陳媽咪飯團 現金
-2026-03-14,Life,晚餐,315,Family,鎮傳四神湯 現金
 2026-03-14,Life,早餐,240,Family,家樂福麵包 永豐SPORT卡
+2026-03-14,Life,晚餐,315,Family,鎮傳四神湯 現金
 2026-03-14,Life,晚餐,330,Family,呷擱來 悠遊付
+2026-03-14,Life,羽球臨打,200,Personal,無謂南工 現金
+2026-03-15,Tech,Netflix,669,Family,2026年3月帳單; 玉山卡
+2026-03-15,Tech,國外交易手續費,9,Family,Netflix刷卡手續費
 2026-03-16,Life,早餐,230,Family,味興麵包 現金
 2026-03-18,Life,早餐,220,Family,味興麵包 現金
 2026-03-19,Life,晚餐,385,Family,廣越美食 現金
 2026-03-20,Child,學費(老大),7863,Family,南大附中 悠遊付週五
-2026-03-23,Utility,管理費(S82),2080,Family,12-3月 現金(對分)
 2026-03-23,Utility,管理費(C81),2400,Family,12-3月 現金(對分)
+2026-03-23,Utility,管理費(S82),2080,Family,12-3月 現金(對分)
 2026-03-24,Life,蘋果,240,Family,合作社 Sport卡
+2026-03-24,Tech,Apple Music,91,Family,訂閱 國泰Cube卡自扣
 2026-03-25,Child,英文學費(老二),13190,Family,大必佳長榮校 現金
-2026-03-25,Life,羊肉爐,515,Family,合作社 Sport卡
 2026-03-25,Life,早餐,180,Family,味興麵包 現金
+2026-03-25,Life,羊肉爐,515,Family,合作社 Sport卡
 2026-03-27,Child,校外教學(老二),2680,Family,3天2夜 悠遊付
 2026-03-27,Life,晚餐,250,Family,呷擱來 悠遊付
 2026-03-28,Life,午餐,315,Family,老黃陽春麵 現金
@@ -101,28 +110,29 @@ Date,Category,Item,Amount,Payer,Note
 2026-03-30,Life,早餐,230,Family,味興麵包 現金
 2026-03-31,Child,合作社費(老二),771,Family,後甲國中 現金
 2026-03-31,Life,羽球臨打,85,Personal,計中羽球 現金
-2026-04-01,Life,勞保費,1145,Personal,薪資自扣
-2026-04-01,Life,勞保健保費,859,Personal,薪資自扣
 2026-04-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
-2026-04-01,Transport,汽車牌照稅,7120,Family,悠遊付
+2026-04-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-04-01,Life,勞保費,1145,Personal,薪資自扣
 2026-04-01,Life,早餐,240,Family,味興麵包 現金
+2026-04-01,Transport,汽車牌照稅,7120,Family,悠遊付
 2026-04-02,Life,咖啡機,7450,Family,迪朗奇義式咖啡機 LINEPAY 一人一半(總額14900)
+2026-04-03,Telecom,行動網路(門號09**-***-125),588,Personal,2026年3月帳單; 全支付
 2026-04-03,Utility,台灣電力(C81),1248,Family,悠遊付星期五2%
 2026-04-03,Utility,台灣電力(S82),503,Family,悠遊付星期五2%
 2026-04-03,Utility,自來水費(S82),148,Family,悠遊付星期五2%
-2026-04-04,Life,羽球臨打,200,Personal,無謂 現金
 2026-04-04,Life,午餐,375,Family,呷擱來 悠遊付
-2026-04-04,Life,晚餐,450,Family,小北豚食坊 悠遊付
 2026-04-04,Life,晚餐,100,Family,小北蚵仔煎 現金
+2026-04-04,Life,晚餐,450,Family,小北豚食坊 悠遊付
+2026-04-04,Life,羽球臨打,200,Personal,無謂 現金
 2026-04-04,Life,麵包零食,599,Family,Lopia 永豐Sport卡
 2026-04-05,Life,午餐,731,Family,黎記眷村食堂 國旅卡
+2026-04-05,Life,家庭用品零食,2231,Family,唐吉訶德 永豐Sport卡
 2026-04-05,Life,甜點,210,Family,小熊冰淇淋 現金
 2026-04-05,Life,甜點,40,Family,綠豆湯 現金
-2026-04-05,Life,家庭用品零食,2231,Family,唐吉訶德 永豐Sport卡
-2026-04-06,Utility,房屋稅(C81),2034,Family,全支付星期一3%
-2026-04-06,Life,午餐,300,Family,高雄周燒肉飯 現金
 2026-04-06,Child,腳踏車(老大),3700,Family,ChaiChai 永豐Sport卡
+2026-04-06,Life,午餐,300,Family,高雄周燒肉飯 現金
 2026-04-06,Life,晚餐,435,Family,品味鍋燒 悠遊付轉帳
+2026-04-06,Utility,房屋稅(C81),2034,Family,全支付星期一3%
 2026-04-07,Life,羽球臨打,90,Personal,計中羽球 現金
 2026-04-09,Life,晚餐,180,Family,巧醬涼麵 LINEPAY
 2026-04-10,Utility,自來水費(C81),503,Family,悠遊付星期五2%
@@ -130,15 +140,19 @@ Date,Category,Item,Amount,Payer,Note
 2026-04-11,Life,晚餐,112,Family,福記肉圓 現金
 2026-04-11,Life,晚餐,240,Family,東山古腸 現金
 2026-04-11,Life,甜點,70,Family,芋圓大大 現金
+2026-04-12,Telecom,行動網路(門號09**-***-432),588,Family,2026年3月帳單; 全支付
 2026-04-13,Life,早餐,235,Family,味興麵包 現金
 2026-04-13,Life,洗碗粉組,799,Family,永豐Sport卡
 2026-04-13,Utility,房屋稅(S82),2034,Family,全支付一3%
-2026-04-17,Utility,天然瓦斯(S82),200,Family,悠遊付五2%
+2026-04-15,Tech,Netflix,669,Family,2026年4月帳單; 玉山卡
+2026-04-15,Tech,國外交易手續費,9,Family,Netflix刷卡手續費
 2026-04-17,Utility,天然瓦斯(C81),798,Family,悠遊付五2%
+2026-04-17,Utility,天然瓦斯(S82),200,Family,悠遊付五2%
 2026-04-19,Life,晚餐,224,Family,福記肉圓 現金
 2026-04-19,Life,甜點,115,Family,克林台包 LINEPAY
 2026-04-19,Life,甜點,145,Family,beard papa's 永豐Sport卡
 2026-04-19,Life,羽球,350,Personal,無謂交流賽 現金
+2026-04-24,Tech,Apple Music,91,Family,訂閱 國泰Cube卡自扣
 2026-04-25,Life,晚餐,300,Family,火力雞嘉義火雞肉飯 現金
 2026-04-26,Life,午餐,470,Family,擱再來 悠遊付
 2026-04-26,Life,晚餐,325,Family,阿和肉燥飯 現金
@@ -146,26 +160,30 @@ Date,Category,Item,Amount,Payer,Note
 2026-04-28,Life,晚餐,160,Family,唐家泡菜館 現金
 2026-04-28,Life,羽球,100,Personal,計中羽球 現金
 2026-04-29,Child,班費(老二),2000,Family,現金
-2026-05-01,Utility,房屋稅(C81),2559,Family,悠遊付 一人一半(總額5118)
+2026-05-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
+2026-05-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-05-01,Life,勞保費,1145,Personal,薪資自扣
 2026-05-01,Life,晚餐,200,Family,大東東夜市 現金
 2026-05-01,Life,羽球,160,Personal,勁拍暢打 現金
-2026-05-01,Life,勞保費,1145,Personal,薪資自扣
-2026-05-01,Life,勞保健保費,859,Personal,薪資自扣
-2026-05-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
+2026-05-01,Utility,房屋稅(C81),2559,Family,悠遊付 一人一半(總額5118)
 2026-05-02,Life,晚餐,200,Family,武聖夜市 現金
 2026-05-03,Life,午餐,200,Family,九州拉麵 LINEPAY
-2026-05-04,Life,早餐,230,Family,味興麵包 現金
+2026-05-03,Telecom,行動網路(門號09**-***-125),588,Personal,2026年4月帳單; 全支付
 2026-05-04,Child,零用錢(老大),100,Family,現金
+2026-05-04,Life,早餐,230,Family,味興麵包 現金
 2026-05-09,Life,羽球,190,Personal,勁拍暢打 現金
-2026-05-11,Life,羽球線,300,Personal,教羽凃老師YY65 現金
-2026-05-11,Life,早餐,100,Family,7-11麵包 IPASSMONEY
 2026-05-11,Child,零用錢(老大),100,Family,現金
-2026-05-16,Life,羽球,1000,Personal,勁拍暢打卷11張 現金
-2026-05-16,Life,羽球,30,Personal,勁拍假日暢打 現金
-2026-05-16,Life,羽球,70,Personal,團費 現金
+2026-05-11,Life,早餐,100,Family,7-11麵包 IPASSMONEY
+2026-05-11,Life,羽球線,300,Personal,教羽凃老師YY65 現金
+2026-05-12,Telecom,行動網路(門號09**-***-432),588,Family,2026年4月帳單; 全支付
+2026-05-15,Tech,Netflix,669,Family,2026年5月帳單; 玉山卡
+2026-05-15,Tech,國外交易手續費,9,Family,Netflix刷卡手續費
 2026-05-16,Life,晚餐,375,Family,集品 現金
 2026-05-16,Life,甜點,120,Family,阿川粉圓冰 現金
 2026-05-16,Life,甜點,205,Family,Wish尉旭蛋糕 LINEPAY
+2026-05-16,Life,羽球,1000,Personal,勁拍暢打卷11張 現金
+2026-05-16,Life,羽球,30,Personal,勁拍假日暢打 現金
+2026-05-16,Life,羽球,70,Personal,團費 現金
 2026-05-17,Life,午餐,435,Family,卓仔魚仔麵 現金
 2026-05-17,Life,甜點,120,Family,黃火木 現金
 2026-05-18,Child,零用錢(老大),100,Family,現金
@@ -175,18 +193,25 @@ Date,Category,Item,Amount,Payer,Note
 2026-05-23,Life,晚餐,320,Family,二五巴水餃 現金
 2026-05-23,Life,羽球臨打,200,Personal,無謂 現金
 2026-05-24,Life,晚餐、零食,1314,Family,LOPIA 永豐SPORT
+2026-05-24,Tech,Apple Music,91,Family,訂閱 國泰Cube卡自扣
 2026-05-25,Utility,房屋稅(S82),2236,Family,全支付 一人一半(總額4472)
 2026-05-26,Life,綜合所得稅,11975,Family,全支付及悠遊付總額23950
+2026-05-28,Telecom,網路,3900,Family,訊南網路 現金 2400網路費、500安裝費、1000押金
 2026-05-30,Life,羽球,130,Personal,勁拍暢打 現金
 2026-05-30,Life,羽球,70,Personal,羽球團費 現金
-2026-06-01,Utility,房屋稅(C81),2559,Family,悠遊付 一人一半(總額5118)
-2026-06-01,Life,勞保費,1145,Personal,薪資自扣
-2026-06-01,Life,勞保健保費,859,Personal,薪資自扣
 2026-06-01,Child,勞保健保費(老大老二),1718,Family,薪資自扣
+2026-06-01,Life,勞保健保費,859,Personal,薪資自扣
+2026-06-01,Life,勞保費,1145,Personal,薪資自扣
+2026-06-01,Utility,房屋稅(C81),2559,Family,悠遊付 一人一半(總額5118)
+2026-06-03,Telecom,行動網路(門號09**-***-125),588,Personal,2026年5月帳單; 全支付
 2026-06-05,Utility,台灣電力(C81),769,Family,悠遊付五2% 一人一半(總額1538)
-2026-06-07,Utility,台灣電力(S82),250,Family,全支付一3% 一人一半(總額500)
 2026-06-06,Life,羽球,130,Personal,勁拍暢打 現金
 2026-06-06,Life,羽球,70,Personal,羽球團費 現金
 2026-06-07,Life,羽球,350,Personal,無謂雙打 現金
+2026-06-07,Utility,台灣電力(S82),250,Family,全支付一3% 一人一半(總額500)
 2026-06-08,Child,晚餐(老大),100,Family,晚餐 現金
 2026-06-08,Child,零用錢(老大),100,Family,現金
+2026-06-12,Life,瓦斯費(C81),308,Family,悠遊付五2% 一人一半(總額616)
+2026-06-12,Life,瓦斯費(S82),100,Family,悠遊付五2% 一人一半(總額200)
+2026-06-15,Child,保險費(老大老二),23967,Family,三商美邦 轉帳
+2026-06-16,Child,補習費(老大),7800,Family,詹穎 轉帳
