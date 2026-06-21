@@ -18,6 +18,7 @@ Date,Category,Item,Amount,Payer,Note
 2026-01-15,Tech,國外交易手續費,9,Family,Netflix刷卡手續費
 2026-01-20,Life,羽球,90,Personal,計中羽球團
 2026-01-21,Child,學雜費(老大),1765,Family,2025年第一學期; 玉山分期6/6期
+2026-01-22,Life,好市多,7124,Family,1月帳單 富邦卡
 2026-01-24,Life,羽球,200,Personal,無謂瘋羽臨打
 2026-01-25,Tech,Apple Music,240,Family,信用卡自動扣款
 2026-01-30,Utility,台灣電力(C81),1227,Family,2026年1月帳單; 全支付星期五無回饋
@@ -56,6 +57,8 @@ Date,Category,Item,Amount,Payer,Note
 2026-02-19,Life,橫丁拉麵,646,Family,台中day2午餐
 2026-02-20,Life,多拿滋,255,Family,台中day3飲料
 2026-02-20,Transport,etag,200,Family,台中day3utaggo儲值
+2026-02-21,Life,刮鬍刀,778,Personal,鋒護手動 富邦卡
+2026-02-22,Life,好市多,7980,Family,2月帳單 富邦卡
 2026-02-22,Life,羽球比賽,300,Personal,裕興交流賽大河羽球場 現金
 2026-02-24,Life,羽球線,380,Personal,久奈司黑豹球拍 現金
 2026-02-24,Life,羽球臨打,100,Personal,計中羽球團 現金
@@ -93,6 +96,7 @@ Date,Category,Item,Amount,Payer,Note
 2026-03-18,Life,早餐,220,Family,味興麵包 現金
 2026-03-19,Life,晚餐,385,Family,廣越美食 現金
 2026-03-20,Child,學費(老大),7863,Family,南大附中 悠遊付週五
+2026-03-22,Life,好市多,2877,Family,3月帳單 富邦卡
 2026-03-23,Utility,管理費(C81),2400,Family,12-3月 現金(對分)
 2026-03-23,Utility,管理費(S82),2080,Family,12-3月 現金(對分)
 2026-03-24,Life,蘋果,240,Family,合作社 Sport卡
@@ -152,6 +156,7 @@ Date,Category,Item,Amount,Payer,Note
 2026-04-19,Life,甜點,115,Family,克林台包 LINEPAY
 2026-04-19,Life,甜點,145,Family,beard papa's 永豐Sport卡
 2026-04-19,Life,羽球,350,Personal,無謂交流賽 現金
+2026-04-22,Life,好市多,6147,Family,4月帳單 富邦卡
 2026-04-24,Tech,Apple Music,91,Family,訂閱 國泰Cube卡自扣
 2026-04-25,Life,晚餐,300,Family,火力雞嘉義火雞肉飯 現金
 2026-04-26,Life,午餐,470,Family,擱再來 悠遊付
@@ -168,6 +173,7 @@ Date,Category,Item,Amount,Payer,Note
 2026-05-01,Utility,房屋稅(C81),2559,Family,悠遊付 一人一半(總額5118)
 2026-05-02,Life,晚餐,200,Family,武聖夜市 現金
 2026-05-03,Life,午餐,200,Family,九州拉麵 LINEPAY
+2026-05-03,Life,眼鏡,6797,Personal,好市多眼鏡部多焦 富邦卡
 2026-05-03,Telecom,行動網路(門號09**-***-125),588,Personal,2026年4月帳單; 全支付
 2026-05-04,Child,零用錢(老大),100,Family,現金
 2026-05-04,Life,早餐,230,Family,味興麵包 現金
@@ -189,6 +195,7 @@ Date,Category,Item,Amount,Payer,Note
 2026-05-18,Child,零用錢(老大),100,Family,現金
 2026-05-19,Child,晚餐(老二),100,Family,大必佳晚餐 現金
 2026-05-19,Life,羽球臨打,90,Personal,計中羽球 轉帳
+2026-05-22,Life,好市多,6545,Family,5月帳單 富邦卡
 2026-05-23,Life,午餐,370,Family,呷擱來 IPASS MONEY
 2026-05-23,Life,晚餐,320,Family,二五巴水餃 現金
 2026-05-23,Life,羽球臨打,200,Personal,無謂 現金
@@ -215,3 +222,5 @@ Date,Category,Item,Amount,Payer,Note
 2026-06-12,Life,瓦斯費(S82),100,Family,悠遊付五2% 一人一半(總額200)
 2026-06-15,Child,保險費(老大老二),23967,Family,三商美邦 轉帳
 2026-06-16,Child,補習費(老大),7800,Family,詹穎 轉帳
+2026-06-21,Transport,汽車保費,11398,Family,明台保險 Richart週末刷卡
+2026-06-22,Life,好市多,3704,Family,6月帳單 富邦卡
